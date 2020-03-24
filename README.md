@@ -1,2 +1,5 @@
 # Clustering
-This module covers the concept of clustering in machine learning. It explains three of the most common clustering algorithms, with a hands-on approximation to solve a real-life data problem. The three clustering algorithms covered are k-means, mean-shift and DBSCAN algorithms.
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Clustering.svg)](https://github.com/Develop-Packt/Clustering/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Clustering.svg)](https://github.com/Develop-Packt/Clustering/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Clustering.svg)](https://github.com/Develop-Packt/Clustering/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Clustering/pulls)
